@@ -1,0 +1,11 @@
+Day Month Year Qty Unit Price RepID Region Product Amount
+17 6 2019 22 5 E011 North ProductA 110
+23 6 2019 24 5 E011 North ProductA 120
+26 6 2019 9 8 E011 North ProductC 72
+29 6 2019 6 8 E011 North ProductC 48
+2 7 2019 7 5 E011 North ProductD 35
+4 7 2019 15 5 E011 North ProductD 75
+8 7 2019 19 15 E011 North ProductB 285
+20 7 2019 23 10 E011 North ProductA 230
+22 7 2019 10 10 E011 North ProductA 100
+23 7 2019 13 10 E011 North ProductA 130
