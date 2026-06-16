@@ -2,6 +2,7 @@
 // Class : BSCS-1, Sec: A
 // Roll Number: 52
 // Form Number: 5675801
+// Seat No: EB26210006104
 
 //Program to solve a set of linear equations simultaneously when its Augmented Matrix given as input. 
 
