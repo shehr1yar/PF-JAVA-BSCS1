@@ -2,6 +2,7 @@
 // Class : BSCS-1, Sec: A
 // Roll Number: 52
 // Form Number: 5675801
+// Seat No: EB26210006104
 
 //Part (a) Write Java program that takes input an integer number and converts it into a binary number
 
