@@ -43,13 +43,13 @@ public class ProductHashmap {
             scanner.close();
 
         } catch (FileNotFoundException e) {
-            System.out.println("File not found bro");
+            System.out.println("File not found");
         }
 
         System.out.println("\nTotal Amount per Product:");
 
         if (productTotals.isEmpty()) {
-            System.out.println("No data found 👀");
+            System.out.println("No data found");
         }
 
         for (String key : productTotals.keySet()) {
