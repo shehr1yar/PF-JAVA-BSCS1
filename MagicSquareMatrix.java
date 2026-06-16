@@ -2,6 +2,7 @@
 // Class : BSCS-1, Sec: A
 // Roll Number: 52
 // Form Number: 5675801
+// Seat No: EB26210006104
 
 import java.util.Scanner;
 
